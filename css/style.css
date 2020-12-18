@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Rye&display=swap');
 * {
     margin: 0;
 }
@@ -14,4 +15,23 @@
 .avatar {
     width: 100px;
     border-radius: 60%;
+}
+
+.mm {
+    background: #33cfef 100%;
+}
+
+.titulos {
+    font-family: 'Rye', cursive;
+    color: white;
+}
+
+p {
+    font-family: 'Delius', cursive;
+    color: rgb(247, 238, 238);
+}
+
+.p {
+    font-family: 'Delius', cursive;
+    color: rgb(247, 238, 238);
 }
