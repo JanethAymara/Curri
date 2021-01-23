@@ -31,3 +31,7 @@
     font-family: 'Delius', cursive;
     color: rgb(247, 238, 238);
 }
+
+hmtl {
+    scroll-behavior: smooth;
+}
